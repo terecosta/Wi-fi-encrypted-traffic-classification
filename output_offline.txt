@@ -1,0 +1,747 @@
+The program of classifying traffic flows started!
+Doing the training part.
+Uplink traning samples
+[[145.92, 46.58220800000001], [273.26, 67.948868], [194.0, 54.416650000000004], [96.0, 1.0], [355.94, 67.137764], [182.48, 58.56333199999999], [316.66, 63.633323999999995], [367.9130434782609, 54.26086956521739]]
+[0, 0, 0, 1, 2, 2, 2, 2]
+Downlink traning samples
+[[1194.92, 56.55], [1045.54, 37.83], [1092.76, 38.91], [1062.18, 35.36], [972.58, 34.14], [1296.4, 52.26], [1549.0, 59.02], [1463.08, 60.06], [1549.0, 61.88], [1549.0, 62.01], [528.0, 64.03703703703704], [126.97916666666667, 35.208333333333336], [570.36, 24.91], [466.92, 26.32], [726.82, 21.05], [142.26, 30.67], [257.7, 13.76], [576.72, 29.68], [474.32, 21.07], [126.78, 21.33], [655.38, 31.06], [217.02, 15.64], [1069.8, 39.97], [628.2, 21.45], [277.9, 15.47], [156.8, 12.97], [299.92, 16.25], [143.74, 19.67], [316.56, 16.05], [353.88, 15.24], [549.18, 38.93], [340.94, 24.39], [1423.9, 58.63], [315.02, 25.86], [479.92, 23.63], [268.14, 15.56], [350.42, 19.07], [645.5, 22.48], [955.94, 21.46], [279.1, 25.58], [127.65384615384616, 10.365384615384615]]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+Start the offline test
+CHROME test
+Downlink
+[[216.5, 39.0]]
+[1]
+Downlink
+[[726.8, 21.45]]
+[2]
+Downlink
+[[761.1, 25.25]]
+[2]
+Downlink
+[[647.7, 22.2]]
+[2]
+Downlink
+[[499.7, 16.65]]
+[2]
+Downlink
+[[123.1, 22.2]]
+[1]
+Downlink
+[[1183.1, 22.2]]
+[0]
+Downlink
+[[675.7, 33.25]]
+[2]
+Downlink
+[[132.0, 34.45]]
+[1]
+Downlink
+[[220.7, 19.5]]
+[1]
+Downlink
+[[655.5, 34.45]]
+[2]
+Downlink
+[[667.7, 15.05]]
+[2]
+Downlink
+[[1109.9, 28.5]]
+[0]
+Downlink
+[[600.5, 15.9]]
+[2]
+Downlink
+[[600.5, 11.35]]
+[2]
+Downlink
+[[124.1, 22.2]]
+[1]
+Downlink
+[[132.7, 18.05]]
+[1]
+Downlink
+[[148.8, 50.05]]
+[1]
+Downlink
+[[157.2, 23.4]]
+[1]
+Downlink
+[[148.5, 39.65]]
+[1]
+Downlink
+[[169.6, 16.25]]
+[1]
+Downlink
+[[166.9, 2.45]]
+[1]
+Downlink
+[[610.9, 17.85]]
+[2]
+Downlink
+[[218.5, 22.65]]
+[1]
+Downlink
+[[122.6, 9.6]]
+[1]
+Downlink
+[[1013.6, 36.4]]
+[0]
+Downlink
+[[568.1, 41.5]]
+[2]
+Downlink
+[[147.3, 31.85]]
+[1]
+Downlink
+[[156.4, 3.1]]
+[1]
+Downlink
+[[998.2, 35.55]]
+[0]
+Downlink
+[[468.0, 24.7]]
+[2]
+Downlink
+[[207.5, 10.8]]
+[1]
+Downlink
+[[388.4, 24.05]]
+[2]
+Downlink
+[[1184.2, 34.45]]
+[0]
+Downlink
+[[123.5, 11.35]]
+[1]
+Downlink
+[[132.0, 39.0]]
+[1]
+Downlink
+[[130.8, 16.25]]
+[1]
+Downlink
+[[123.5, 11.35]]
+[1]
+Downlink
+[[123.5, 17.85]]
+[1]
+Downlink
+[[124.1, 22.2]]
+[1]
+Downlink
+[[1187.3, 27.95]]
+[0]
+Downlink
+[[1436.8, 58.5]]
+[0]
+Uplink
+[[256.9, 72.22220000000002]]
+[0]
+Uplink
+[[320.4, 72.22220000000002]]
+[2]
+Uplink
+[[318.2, 72.22220000000002]]
+[2]
+Uplink
+[[448.8, 59.87221999999999]]
+[2]
+Uplink
+[[435.4, 59.15]]
+[2]
+Uplink
+[[132.0, 59.15]]
+[0]
+Uplink
+[[162.7, 58.5]]
+[0]
+Uplink
+[[175.8, 59.15]]
+[0]
+Downlink
+[[391.2, 35.95]]
+[2]
+Downlink
+[[129.7, 25.65]]
+[1]
+Downlink
+[[131.9, 7.25]]
+[1]
+Downlink
+[[130.5, 12.2]]
+[1]
+Downlink
+[[131.6, 10.8]]
+[1]
+Downlink
+[[123.2, 12.75]]
+[1]
+Downlink
+[[123.5, 17.85]]
+[1]
+Downlink
+[[576.3, 24.6]]
+[2]
+Downlink
+[[331.8, 13.4]]
+[2]
+Downlink
+[[1164.2, 52.0]]
+[0]
+Downlink
+[[1449.0, 52.0]]
+[0]
+Downlink
+[[1357.8, 48.1]]
+[0]
+Downlink
+[[1046.2, 34.35]]
+[0]
+Downlink
+[[125.5, 24.15]]
+[1]
+Downlink
+[[199.0, 23.2]]
+[1]
+Downlink
+[[470.0, 20.8]]
+[2]
+Downlink
+[[897.8, 15.15]]
+[0]
+Downlink
+[[1448.7, 23.95]]
+[0]
+Downlink
+[[738.6, 16.9]]
+[2]
+Downlink
+[[284.6, 16.45]]
+[2]
+Downlink
+[[121.8, 16.45]]
+[1]
+Downlink
+[[122.8, 12.1]]
+[1]
+Downlink
+[[121.7, 15.45]]
+[1]
+Downlink
+[[137.4, 13.4]]
+[1]
+Downlink
+[[178.7, 8.85]]
+[1]
+Downlink
+[[201.3, 10.15]]
+[1]
+Downlink
+[[122.2, 16.0]]
+[1]
+Downlink
+[[144.4, 16.45]]
+[1]
+Downlink
+[[219.0, 25.35]]
+[1]
+Downlink
+[[235.1, 2.45]]
+[1]
+Downlink
+[[125.4, 16.45]]
+[1]
+Uplink
+[[148.2, 30.0]]
+[0]
+Downlink
+[[685.3, 15.45]]
+[2]
+Downlink
+[[234.8, 21.55]]
+[1]
+Downlink
+[[201.9, 10.45]]
+[1]
+Downlink
+[[123.8, 16.45]]
+[1]
+Downlink
+[[123.8, 16.45]]
+[1]
+Downlink
+[[132.6, 29.0]]
+[1]
+Downlink
+[[136.6, 26.0]]
+[1]
+Downlink
+[[142.0, 8.45]]
+[1]
+Downlink
+[[794.3, 16.8]]
+[2]
+Downlink
+[[365.4, 17.0]]
+[2]
+Downlink
+[[160.1, 16.45]]
+[1]
+Downlink
+[[147.0, 24.15]]
+[1]
+Downlink
+[[174.5, 6.8]]
+[1]
+Downlink
+[[153.4, 14.7]]
+[1]
+Downlink
+[[434.8, 16.45]]
+[2]
+Downlink
+[[435.4, 18.2]]
+[2]
+Downlink
+[[384.6, 14.7]]
+[2]
+Downlink
+[[390.0, 14.95]]
+[2]
+Downlink
+[[123.1, 12.65]]
+[1]
+Downlink
+[[125.8, 22.65]]
+[1]
+Uplink
+[[152.7, 10.0]]
+[1]
+Downlink
+[[583.5, 36.7]]
+[2]
+Downlink
+[[670.2, 61.75]]
+[2]
+Downlink
+[[502.4, 42.25]]
+[2]
+Uplink
+[[253.1, 62.61666]]
+[0]
+Uplink
+[[312.8, 59.8]]
+[2]
+Uplink
+[[186.9, 59.15]]
+[0]
+Uplink
+[[522.0, 62.54444000000001]]
+[2]
+Uplink
+[[231.8, 72.22220000000002]]
+[0]
+Downlink
+[[864.8, 27.95]]
+[0]
+Downlink
+[[129.0, 17.75]]
+[1]
+Downlink
+[[122.1, 22.2]]
+[1]
+Downlink
+[[426.0, 52.75]]
+[2]
+Downlink
+[[485.5, 26.65]]
+[2]
+Downlink
+[[539.3, 5.95]]
+[2]
+Downlink
+[[1319.4, 27.2]]
+[0]
+Downlink
+[[1324.1, 65.0]]
+[0]
+Downlink
+[[1449.0, 65.0]]
+[0]
+Downlink
+[[1449.0, 65.0]]
+[0]
+Downlink
+[[1449.0, 65.0]]
+[0]
+Downlink
+[[654.6, 46.15]]
+[2]
+Downlink
+[[153.9, 23.7]]
+[1]
+Downlink
+[[201.0, 20.8]]
+[1]
+Downlink
+[[177.1, 18.95]]
+[1]
+Downlink
+[[388.5, 21.0]]
+[2]
+Downlink
+[[1183.4, 27.3]]
+[0]
+Downlink
+[[122.5, 11.35]]
+[1]
+Downlink
+[[301.1, 22.2]]
+[2]
+Downlink
+[[301.1, 22.2]]
+[2]
+Uplink
+[[241.3, 66.09998]]
+[0]
+Downlink
+[[551.0, 39.0]]
+[2]
+Downlink
+[[670.4, 5.4]]
+[2]
+Downlink
+[[319.2, 18.6]]
+[2]
+Downlink
+[[124.8, 21.0]]
+[1]
+Downlink
+[[171.0, 16.9]]
+[1]
+Downlink
+[[128.7, 17.1]]
+[1]
+Downlink
+[[194.4, 19.15]]
+[1]
+Downlink
+[[1054.9, 31.85]]
+[0]
+Downlink
+[[123.5, 11.35]]
+[1]
+Downlink
+[[123.5, 16.55]]
+[1]
+Downlink
+[[123.5, 11.35]]
+[1]
+Downlink
+[[1085.7, 27.85]]
+[0]
+Downlink
+[[380.0, 10.15]]
+[2]
+Downlink
+[[604.1, 21.75]]
+[2]
+Downlink
+[[881.7, 32.5]]
+[0]
+Downlink
+[[395.0, 24.05]]
+[2]
+Downlink
+[[264.6, 4.75]]
+[2]
+Downlink
+[[643.5, 10.35]]
+[2]
+Downlink
+[[1494.7, 22.0]]
+[0]
+Downlink
+[[1448.7, 41.5]]
+[0]
+Downlink
+[[936.8, 29.9]]
+[0]
+Downlink
+[[137.2, 25.65]]
+[1]
+Downlink
+[[662.3, 22.1]]
+[2]
+Downlink
+[[338.3, 18.75]]
+[2]
+Downlink
+[[127.9, 34.2]]
+[1]
+Downlink
+[[132.5, 26.0]]
+[1]
+Downlink
+[[133.4, 8.45]]
+[1]
+Uplink
+[[284.8, 52.75]]
+[0]
+Uplink
+[[583.2, 53.3]]
+[2]
+Downlink
+[[127.5, 18.1]]
+[1]
+Uplink
+[[227.8, 53.3]]
+[0]
+Final result of Chrome
+[array([1]), array([2]), array([2]), array([2]), array([2]), array([1]), array([0]), array([2]), array([1]), array([1]), array([2]), array([2]), array([0]), array([2]), array([2]), array([1]), array([1]), array([1]), array([1]), array([1]), array([1]), array([1]), array([2]), array([1]), array([1]), array([0]), array([2]), array([1]), array([1]), array([0]), array([2]), array([1]), array([2]), array([0]), array([1]), array([1]), array([1]), array([1]), array([1]), array([1]), array([0]), array([0]), array([0]), array([2]), array([2]), array([2]), array([2]), array([0]), array([0]), array([0]), array([2]), array([1]), array([1]), array([1]), array([1]), array([1]), array([1]), array([2]), array([2]), array([0]), array([0]), array([0]), array([0]), array([1]), array([1]), array([2]), array([0]), array([0]), array([2]), array([2]), array([1]), array([1]), array([1]), array([1]), array([1]), array([1]), array([1]), array([1]), array([1]), array([1]), array([1]), array([0]), array([2]), array([1]), array([1]), array([1]), array([1]), array([1]), array([1]), array([1]), array([2]), array([2]), array([1]), array([1]), array([1]), array([1]), array([2]), array([2]), array([2]), array([2]), array([1]), array([1]), array([1]), array([2]), array([2]), array([2]), array([0]), array([2]), array([0]), array([2]), array([0]), array([0]), array([1]), array([1]), array([2]), array([2]), array([2]), array([0]), array([0]), array([0]), array([0]), array([0]), array([2]), array([1]), array([1]), array([1]), array([2]), array([0]), array([1]), array([2]), array([2]), array([0]), array([2]), array([2]), array([2]), array([1]), array([1]), array([1]), array([1]), array([0]), array([1]), array([1]), array([1]), array([0]), array([2]), array([2]), array([0]), array([2]), array([2]), array([2]), array([0]), array([0]), array([0]), array([1]), array([2]), array([2]), array([1]), array([1]), array([1]), array([0]), array([2]), array([1]), array([0])]
+YOUTUBE test
+Uplink
+[[178.4, 9.0]]
+[0]
+Uplink
+[[197.5, 10.0]]
+[0]
+Uplink
+[[197.6, 9.0]]
+[0]
+Uplink
+[[203.9, 10.0]]
+[0]
+Uplink
+[[191.2, 9.0]]
+[0]
+Uplink
+[[178.5, 8.0]]
+[0]
+Uplink
+[[184.8, 9.0]]
+[0]
+Downlink
+[[417.2, 57.2]]
+[2]
+Downlink
+[[1205.0, 63.05]]
+[0]
+Downlink
+[[1489.0, 56.55]]
+[0]
+Downlink
+[[1499.0, 53.3]]
+[0]
+Downlink
+[[1364.4, 52.65]]
+[0]
+Downlink
+[[1220.8, 38.35]]
+[0]
+Downlink
+[[571.5, 24.05]]
+[2]
+Downlink
+[[674.4, 39.0]]
+[2]
+Downlink
+[[1212.0, 46.15]]
+[0]
+Downlink
+[[1549.0, 41.6]]
+[0]
+Downlink
+[[1549.0, 42.9]]
+[0]
+Downlink
+[[1549.0, 42.25]]
+[0]
+Downlink
+[[1549.0, 59.8]]
+[0]
+Downlink
+[[694.0, 31.85]]
+[2]
+Downlink
+[[122.8, 17.75]]
+[1]
+Downlink
+[[979.9, 44.2]]
+[0]
+Downlink
+[[1000.2, 36.4]]
+[0]
+Downlink
+[[1449.0, 49.4]]
+[0]
+Downlink
+[[1478.7, 26.55]]
+[0]
+Downlink
+[[403.1, 20.25]]
+[2]
+Downlink
+[[122.5, 11.35]]
+[1]
+Downlink
+[[403.7, 23.5]]
+[2]
+Downlink
+[[1524.0, 43.55]]
+[0]
+Downlink
+[[1539.0, 40.3]]
+[0]
+Uplink
+[[172.1, 8.0]]
+[0]
+Downlink
+[[1273.7, 52.0]]
+[0]
+Downlink
+[[1549.0, 55.9]]
+[0]
+Downlink
+[[1549.0, 61.1]]
+[0]
+Downlink
+[[1549.0, 51.35]]
+[0]
+Downlink
+[[1268.3, 55.25]]
+[0]
+Downlink
+[[566.7, 37.7]]
+[2]
+Downlink
+[[1549.0, 62.4]]
+[0]
+Downlink
+[[1549.0, 65.0]]
+[0]
+Downlink
+[[1549.0, 65.0]]
+[0]
+Downlink
+[[1549.0, 59.8]]
+[0]
+Downlink
+[[1549.0, 42.9]]
+[0]
+Downlink
+[[1549.0, 54.6]]
+[0]
+Downlink
+[[1549.0, 65.0]]
+[0]
+Downlink
+[[1119.4, 58.5]]
+[0]
+Uplink
+[[175.4, 28.366659999999996]]
+[0]
+Downlink
+[[1549.0, 59.8]]
+[0]
+Downlink
+[[1549.0, 62.4]]
+[0]
+Uplink
+[[207.8, 66.09998]]
+[0]
+Uplink
+[[198.9, 58.97776]]
+[0]
+Downlink
+[[1549.0, 49.4]]
+[0]
+Downlink
+[[1549.0, 65.0]]
+[0]
+Downlink
+[[1549.0, 65.0]]
+[0]
+Downlink
+[[1549.0, 65.0]]
+[0]
+Uplink
+[[132.6, 72.22220000000002]]
+[0]
+Downlink
+[[1549.0, 65.0]]
+[0]
+Downlink
+[[1549.0, 65.0]]
+[0]
+Uplink
+[[264.3, 72.22220000000002]]
+[0]
+Uplink
+[[199.0, 72.22220000000002]]
+[0]
+Uplink
+[[181.2, 66.09998]]
+[0]
+Uplink
+[[178.5, 8.0]]
+[0]
+Downlink
+[[1549.0, 58.5]]
+[0]
+Downlink
+[[1549.0, 56.55]]
+[0]
+Downlink
+[[1549.0, 65.0]]
+[0]
+Downlink
+[[1549.0, 65.0]]
+[0]
+Uplink
+[[429.8, 47.73332]]
+[2]
+Downlink
+[[727.8, 65.0]]
+[2]
+Uplink
+[[287.7, 72.22220000000002]]
+[0]
+Uplink
+[[213.8, 58.97776]]
+[0]
+Uplink
+[[203.0, 52.85554]]
+[0]
+Uplink
+[[264.1, 66.09998]]
+[0]
+Uplink
+[[185.3, 66.09998]]
+[0]
+Uplink
+[[211.0, 52.85554]]
+[0]
+Downlink
+[[407.1, 62.4]]
+[2]
+Final result of Youtube
+[array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([2]), array([0]), array([0]), array([0]), array([0]), array([0]), array([2]), array([2]), array([0]), array([0]), array([0]), array([0]), array([0]), array([2]), array([1]), array([0]), array([0]), array([0]), array([0]), array([2]), array([1]), array([2]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([2]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([2]), array([2]), array([0]), array([0]), array([0]), array([0]), array([0]), array([0]), array([2])]
+WHATSUP test
+Downlink
+[[144.5, 40.3]]
+[1]
+Downlink
+[[122.7, 35.0]]
+[1]
+Downlink
+[[122.7, 45.6]]
+[1]
+Downlink
+[[122.1, 25.25]]
+[1]
+Uplink
+[[96.6, 2.0]]
+[1]
+Final result of Whatsup
+[array([1]), array([1]), array([1]), array([1]), array([1])]
